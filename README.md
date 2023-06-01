@@ -2,9 +2,9 @@
 
 Date:
 
-GitHub link:
+GitHub link:https://github.com/sathiya7g/Ex-01-Data-Cleaning?organization=sathiya7g&organization=sathiya7g
 
-Colab Link:
+Colab Link:https://colab.research.google.com/drive/1g4E3LLy44dt8NQT7z4H43O2rKmIThOD7?usp=sharing
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
